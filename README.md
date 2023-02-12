@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://noisrucer.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FC6D26?style=&logo=GitHub Pages&logoColor=black"/></a>
+<a href="mailto:changjin9792@gmail.com"><img src="https://img.shields.io/badge/changjinlee-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:자신의이메일"/></a>
+
+I'm a 3rd year computer science student in the University of Hong Kong.
+
+I'm mainly interested and **data engineering** and **AI**.
