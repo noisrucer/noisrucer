@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 I'm a 3rd year computer science student in the University of Hong Kong.
 
 I'm mainly interested and **data engineering** and **AI**. I also enjoy solving algorithm problems (If you want to be algorithm-buddy, drop me an email!)
+
+
+
+![noisrucer's GitHub stats](https://github-readme-stats.vercel.app/api?username=noisrucer&show_icons=true&theme=radical)
