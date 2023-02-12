@@ -23,4 +23,4 @@ I'm mainly interested and **data engineering** and **AI**. I also enjoy solving 
 
 
 
-![noisrucer's GitHub stats](https://github-readme-stats.vercel.app/api?username=noisrucer&show_icons=true&theme=radical)
+![noisrucer's GitHub stats](https://github-readme-stats.vercel.app/api?username=noisrucer&show_icons=true&theme=monokai)
