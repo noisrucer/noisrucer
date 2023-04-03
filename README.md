@@ -23,4 +23,5 @@ I'm mainly interested in **data engineering**, **backend**, and **AI**. I also e
 
 
 
-![noisrucer's GitHub stats](https://github-readme-stats.vercel.app/api?username=noisrucer&show_icons=true&theme=monokai)
+<!-- ![noisrucer's GitHub stats](https://github-readme-stats.vercel.app/api?username=noisrucer&show_icons=true&theme=monokai) -->
+[![noisrucer's GitHub stats](https://github-readme-stats.vercel.app/api?username=noisrucer)](https://github.com/noisrucer/github-readme-stats)
