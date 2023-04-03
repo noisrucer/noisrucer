@@ -21,7 +21,7 @@ I'm a 3rd year computer science student in the University of Hong Kong.
 
 I'm mainly interested in **data engineering**, **backend**, and **AI**. I also enjoy solving algorithm problems (If you want to be algorithm-buddy, drop me an email!)
 
+![f](https://github.com/anuraghazra/github-readme-stats)
 
-![](github-readme-stats-93j4zqb6p-noisrucer.vercel.app/api?username=noisrucer)
 <!-- ![noisrucer's GitHub stats](https://github-readme-stats.vercel.app/api?username=noisrucer&show_icons=true&theme=monokai) -->
 <!-- [![noisrucer's GitHub stats](https://github-readme-stats.vercel.app/api?username=noisrucer)](https://github.com/noisrucer/github-readme-stats) -->
