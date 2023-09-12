@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm a 3rd year computer science student from the University of Hong Kong.
 
-I'm mainly interested in **data engineering**, **backend**, and **AI**. I also enjoy solving algorithm problems.
+
 
 
 
