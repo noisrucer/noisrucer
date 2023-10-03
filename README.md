@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 I'm a 3rd year computer science student from the University of Hong Kong.
 
+Contact: changjin9792@gmail.com
+
 
 
 
