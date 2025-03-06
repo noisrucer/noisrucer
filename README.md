@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <a href="https://noisrucer.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-428813?style=&logo=GitHub Pages&logoColor=black"/></a>
 <a href="mailto:changjin9792@gmail.com"><img src="https://img.shields.io/badge/changjinlee-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:changjin9792@gmail.com"/></a>
 
-I'm a 3rd year computer science student from the University of Hong Kong.
-
 Contact: changjin9792@gmail.com
 
 
